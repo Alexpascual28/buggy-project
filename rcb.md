@@ -13,17 +13,14 @@
   <summary>Table of Contents</summary><br>
 
 - [ Overview](#-overview)
-- [ Features](#-features)
+- [ File Descriptions](#-features)
 - [ Repository Structure](#-repository-structure)
 - [ Modules](#-modules)
 - [ Getting Started](#-getting-started)
+  - [ Requirements](#requirements)
   - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
+- [ Code](#code)
 - [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
 </details>
 <hr>
 
