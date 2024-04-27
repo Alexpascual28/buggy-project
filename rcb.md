@@ -119,7 +119,7 @@
 
 | File                                                                                                      | Summary                         |
 | ---                                                                                                       | ---                             |
-| [MotorESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/00 Final/MotorESP/MotorESP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [MotorESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/00 Final/MotorESP/MotorESP.ino) | <code> </code> |
 
 </details>
 
@@ -127,7 +127,7 @@
 
 | File                                                                                                                  | Summary                         |
 | ---                                                                                                                   | ---                             |
-| [MotorArduino.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/00 Final/MotorArduino/MotorArduino.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [MotorArduino.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/00 Final/MotorArduino/MotorArduino.ino) | <code> </code> |
 
 </details>
 
@@ -135,7 +135,7 @@
 
 | File                                                                                                                                         | Summary                         |
 | ---                                                                                                                                          | ---                             |
-| [ESP_from_Arduino_UDP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/ESP_from_Arduino_UDP/ESP_from_Arduino_UDP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [ESP_from_Arduino_UDP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/ESP_from_Arduino_UDP/ESP_from_Arduino_UDP.ino) | <code> </code> |
 
 </details>
 
@@ -143,7 +143,7 @@
 
 | File                                                                                                                                | Summary                         |
 | ---                                                                                                                                 | ---                             |
-| [Joysticktest1-UNO.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/Joysticktest1-UNO/Joysticktest1-UNO.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Joysticktest1-UNO.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/Joysticktest1-UNO/Joysticktest1-UNO.ino) | <code> </code> |
 
 </details>
 
@@ -151,7 +151,7 @@
 
 | File                                                                                      | Summary                         |
 | ---                                                                                       | ---                             |
-| [UDP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UDP/UDP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [UDP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UDP/UDP.ino) | <code> </code> |
 
 </details>
 
@@ -159,8 +159,8 @@
 
 | File                                                                                                                            | Summary                         |
 | ---                                                                                                                             | ---                             |
-| [ESP_to_Arduino.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/ESP_to_Arduino/ESP_to_Arduino.ino) | <code>► INSERT-TEXT-HERE</code> |
-| [ESP_to_Arduino.txt](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/ESP_to_Arduino/ESP_to_Arduino.txt) | <code>► INSERT-TEXT-HERE</code> |
+| [ESP_to_Arduino.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/ESP_to_Arduino/ESP_to_Arduino.ino) | <code> </code> |
+| [ESP_to_Arduino.txt](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/ESP_to_Arduino/ESP_to_Arduino.txt) | <code> </code> |
 
 </details>
 
@@ -168,7 +168,7 @@
 
 | File                                                                                                                                                                      | Summary                         |
 | ---                                                                                                                                                                       | ---                             |
-| [Arduino_to_ESP_communication.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/Arduino_to_ESP_communication/Arduino_to_ESP_communication.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Arduino_to_ESP_communication.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/Arduino_to_ESP_communication/Arduino_to_ESP_communication.ino) | <code> </code> |
 
 </details>
 
@@ -176,7 +176,7 @@
 
 | File                                                                                                                                  | Summary                         |
 | ---                                                                                                                                   | ---                             |
-| [Arduino_from_ESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/Arduino_from_ESP/Arduino_from_ESP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Arduino_from_ESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/Arduino_from_ESP/Arduino_from_ESP.ino) | <code> </code> |
 
 </details>
 
@@ -184,7 +184,7 @@
 
 | File                                                                                                                                                                            | Summary                         |
 | ---                                                                                                                                                                             | ---                             |
-| [ESP_from_Arduino_communication.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/ESP_from_Arduino_communication/ESP_from_Arduino_communication.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [ESP_from_Arduino_communication.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/UART/ESP_from_Arduino_communication/ESP_from_Arduino_communication.ino) | <code> </code> |
 
 </details>
 
@@ -192,7 +192,7 @@
 
 | File                                                                                                                       | Summary                         |
 | ---                                                                                                                        | ---                             |
-| [Codigo_buggy_5.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/Codigo_buggy_5/Codigo_buggy_5.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Codigo_buggy_5.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/Codigo_buggy_5/Codigo_buggy_5.ino) | <code> </code> |
 
 </details>
 
@@ -200,7 +200,7 @@
 
 | File                                                                                               | Summary                         |
 | ---                                                                                                | ---                             |
-| [ESPudp.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/ESPudp/ESPudp.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [ESPudp.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/ESPudp/ESPudp.ino) | <code> </code> |
 
 </details>
 
@@ -208,7 +208,7 @@
 
 | File                                                                                                     | Summary                         |
 | ---                                                                                                      | ---                             |
-| [Joystick.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/Joystick/Joystick.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Joystick.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/Joystick/Joystick.ino) | <code> </code> |
 
 </details>
 
@@ -216,7 +216,7 @@
 
 | File                                                                                                                 | Summary                         |
 | ---                                                                                                                  | ---                             |
-| [MotorControl.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/MotorControl/MotorControl.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [MotorControl.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/SubProg/MotorControl/MotorControl.ino) | <code> </code> |
 
 </details>
 
@@ -224,7 +224,7 @@
 
 | File                                                                                    | Summary                         |
 | ---                                                                                     | ---                             |
-| [UDP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UDP/UDP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [UDP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UDP/UDP.ino) | <code> </code> |
 
 </details>
 
@@ -232,8 +232,8 @@
 
 | File                                                                                                                          | Summary                         |
 | ---                                                                                                                           | ---                             |
-| [ESP_to_Arduino.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/ESP_to_Arduino/ESP_to_Arduino.ino) | <code>► INSERT-TEXT-HERE</code> |
-| [ESP_to_Arduino.txt](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/ESP_to_Arduino/ESP_to_Arduino.txt) | <code>► INSERT-TEXT-HERE</code> |
+| [ESP_to_Arduino.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/ESP_to_Arduino/ESP_to_Arduino.ino) | <code> </code> |
+| [ESP_to_Arduino.txt](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/ESP_to_Arduino/ESP_to_Arduino.txt) | <code> </code> |
 
 </details>
 
@@ -241,7 +241,7 @@
 
 | File                                                                                                                                                                    | Summary                         |
 | ---                                                                                                                                                                     | ---                             |
-| [Arduino_to_ESP_communication.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/Arduino_to_ESP_communication/Arduino_to_ESP_communication.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Arduino_to_ESP_communication.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/Arduino_to_ESP_communication/Arduino_to_ESP_communication.ino) | <code> </code> |
 
 </details>
 
@@ -249,7 +249,7 @@
 
 | File                                                                                                                                | Summary                         |
 | ---                                                                                                                                 | ---                             |
-| [Arduino_from_ESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/Arduino_from_ESP/Arduino_from_ESP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Arduino_from_ESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/Arduino_from_ESP/Arduino_from_ESP.ino) | <code> </code> |
 
 </details>
 
@@ -257,7 +257,7 @@
 
 | File                                                                                                                                                                          | Summary                         |
 | ---                                                                                                                                                                           | ---                             |
-| [ESP_from_Arduino_communication.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/ESP_from_Arduino_communication/ESP_from_Arduino_communication.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [ESP_from_Arduino_communication.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/UART/ESP_from_Arduino_communication/ESP_from_Arduino_communication.ino) | <code> </code> |
 
 </details>
 
@@ -265,7 +265,7 @@
 
 | File                                                                                             | Summary                         |
 | ---                                                                                              | ---                             |
-| [ESPudp.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/ESPudp/ESPudp.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [ESPudp.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/ESPudp/ESPudp.ino) | <code> </code> |
 
 </details>
 
@@ -273,7 +273,7 @@
 
 | File                                                                                                   | Summary                         |
 | ---                                                                                                    | ---                             |
-| [Joystick.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/Joystick/Joystick.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Joystick.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/Joystick/Joystick.ino) | <code> </code> |
 
 </details>
 
@@ -281,7 +281,7 @@
 
 | File                                                                                                               | Summary                         |
 | ---                                                                                                                | ---                             |
-| [MotorControl.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/MotorControl/MotorControl.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [MotorControl.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/David/MotorControl/MotorControl.ino) | <code> </code> |
 
 </details>
 
@@ -289,7 +289,7 @@
 
 | File                                                                                                                     | Summary                         |
 | ---                                                                                                                      | ---                             |
-| [Codigo_buggy_5.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Angel/Codigo_buggy_5/Codigo_buggy_5.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Codigo_buggy_5.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Angel/Codigo_buggy_5/Codigo_buggy_5.ino) | <code> </code> |
 
 </details>
 
@@ -297,7 +297,7 @@
 
 | File                                                                                                                                            | Summary                         |
 | ---                                                                                                                                             | ---                             |
-| [hbridge_motors_test.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/H-Bridge/hbridge_motors_test/hbridge_motors_test.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [hbridge_motors_test.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/H-Bridge/hbridge_motors_test/hbridge_motors_test.ino) | <code> </code> |
 
 </details>
 
@@ -305,7 +305,7 @@
 
 | File                                                                                                                                                                     | Summary                         |
 | ---                                                                                                                                                                      | ---                             |
-| [scan_networks_test1.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Station Mode/scan_networks_test1/scan_networks_test1.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [scan_networks_test1.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Station Mode/scan_networks_test1/scan_networks_test1.ino) | <code> </code> |
 
 </details>
 
@@ -313,7 +313,7 @@
 
 | File                                                                                                                                                                                    | Summary                         |
 | ---                                                                                                                                                                                     | ---                             |
-| [station_mode_setup_test1.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Station Mode/station_mode_setup_test1/station_mode_setup_test1.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [station_mode_setup_test1.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Station Mode/station_mode_setup_test1/station_mode_setup_test1.ino) | <code> </code> |
 
 </details>
 
@@ -321,7 +321,7 @@
 
 | File                                                                                                                                                                              | Summary                         |
 | ---                                                                                                                                                                               | ---                             |
-| [station_mode_test1_LED.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Station Mode/station_mode_test1_LED/station_mode_test1_LED.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [station_mode_test1_LED.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Station Mode/station_mode_test1_LED/station_mode_test1_LED.ino) | <code> </code> |
 
 </details>
 
@@ -329,7 +329,7 @@
 
 | File                                                                                                                                | Summary                         |
 | ---                                                                                                                                 | ---                             |
-| [MAC_Address.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/MAC_Address/MAC_Address.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [MAC_Address.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/MAC_Address/MAC_Address.ino) | <code> </code> |
 
 </details>
 
@@ -337,7 +337,7 @@
 
 | File                                                                                                                                            | Summary                         |
 | ---                                                                                                                                             | ---                             |
-| [ESP8266-AP-JSON.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/ESP8266-AP-JSON/ESP8266-AP-JSON.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [ESP8266-AP-JSON.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/ESP8266-AP-JSON/ESP8266-AP-JSON.ino) | <code> </code> |
 
 </details>
 
@@ -345,7 +345,7 @@
 
 | File                                                                                                                       | Summary                         |
 | ---                                                                                                                        | ---                             |
-| [UDP_comm.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/UDP_comm/UDP_comm.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [UDP_comm.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/UDP_comm/UDP_comm.ino) | <code> </code> |
 
 </details>
 
@@ -353,7 +353,7 @@
 
 | File                                                                                                                                                                                                     | Summary                         |
 | ---                                                                                                                                                                                                      | ---                             |
-| [retrieve_data_pureHTML_test3.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/retrieve_data_pureHTML_test3/retrieve_data_pureHTML_test3.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [retrieve_data_pureHTML_test3.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/retrieve_data_pureHTML_test3/retrieve_data_pureHTML_test3.ino) | <code> </code> |
 
 </details>
 
@@ -361,7 +361,7 @@
 
 | File                                                                                                                                                                       | Summary                         |
 | ---                                                                                                                                                                        | ---                             |
-| [access_point_test1.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/access_point_test1/access_point_test1.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [access_point_test1.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/access_point_test1/access_point_test1.ino) | <code> </code> |
 
 </details>
 
@@ -369,7 +369,7 @@
 
 | File                                                                                                                                                                                            | Summary                         |
 | ---                                                                                                                                                                                             | ---                             |
-| [retrieve_data_html_Static.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/retrieve_data_html_Static/retrieve_data_html_Static.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [retrieve_data_html_Static.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/retrieve_data_html_Static/retrieve_data_html_Static.ino) | <code> </code> |
 
 </details>
 
@@ -377,7 +377,7 @@
 
 | File                                                                                                                                                                                   | Summary                         |
 | ---                                                                                                                                                                                    | ---                             |
-| [access_point_load_HTML.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/access_point_load_HTML/access_point_load_HTML.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [access_point_load_HTML.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/access_point_load_HTML/access_point_load_HTML.ino) | <code> </code> |
 
 </details>
 
@@ -385,7 +385,7 @@
 
 | File                                                                                                                                                                       | Summary                         |
 | ---                                                                                                                                                                        | ---                             |
-| [retrieve_data_html.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/retrieve_data_html/retrieve_data_html.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [retrieve_data_html.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/ESP8266(WifiNodeMCU)/Access point mode/retrieve_data_html/retrieve_data_html.ino) | <code> </code> |
 
 </details>
 
@@ -393,7 +393,7 @@
 
 | File                                                                                                           | Summary                         |
 | ---                                                                                                            | ---                             |
-| [testVoltage.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/testVoltage/testVoltage.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [testVoltage.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/testVoltage/testVoltage.ino) | <code> </code> |
 
 </details>
 
@@ -401,7 +401,7 @@
 
 | File                                                                                                  | Summary                         |
 | ---                                                                                                   | ---                             |
-| [MotorESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/MotorESP/MotorESP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [MotorESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/MotorESP/MotorESP.ino) | <code> </code> |
 
 </details>
 
@@ -409,7 +409,7 @@
 
 | File                                                                                                              | Summary                         |
 | ---                                                                                                               | ---                             |
-| [MotorArduino.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/MotorArduino/MotorArduino.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [MotorArduino.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/MotorArduino/MotorArduino.ino) | <code> </code> |
 
 </details>
 
@@ -417,7 +417,7 @@
 
 | File                                                                                                                                                       | Summary                         |
 | ---                                                                                                                                                        | ---                             |
-| [ESP_from_Arduino_UDP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/ESP_from_Arduino_UDP/ESP_from_Arduino_UDP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [ESP_from_Arduino_UDP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/ESP_from_Arduino_UDP/ESP_from_Arduino_UDP.ino) | <code> </code> |
 
 </details>
 
@@ -425,7 +425,7 @@
 
 | File                                                                                                                                              | Summary                         |
 | ---                                                                                                                                               | ---                             |
-| [Joysticktest1-UNO.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/Joysticktest1-UNO/Joysticktest1-UNO.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Joysticktest1-UNO.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/Joysticktest1-UNO/Joysticktest1-UNO.ino) | <code> </code> |
 
 </details>
 
@@ -433,7 +433,7 @@
 
 | File                                                                                                                                     | Summary                         |
 | ---                                                                                                                                      | ---                             |
-| [Arduino_to_ESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/Arduino_to_ESP/Arduino_to_ESP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Arduino_to_ESP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/Arduino_to_ESP/Arduino_to_ESP.ino) | <code> </code> |
 
 </details>
 
@@ -441,7 +441,7 @@
 
 | File                                                                                                                                                 | Summary                         |
 | ---                                                                                                                                                  | ---                             |
-| [ESP_to_Arduino_TCP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/ESP_to_Arduino_TCP/ESP_to_Arduino_TCP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [ESP_to_Arduino_TCP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/ESP_to_Arduino_TCP/ESP_to_Arduino_TCP.ino) | <code> </code> |
 
 </details>
 
@@ -449,7 +449,7 @@
 
 | File                                                                                                                                                       | Summary                         |
 | ---                                                                                                                                                        | ---                             |
-| [ESP_from_Arduino_TCP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/ESP_from_Arduino_TCP/ESP_from_Arduino_TCP.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [ESP_from_Arduino_TCP.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Joystick+UNO+ESP/ESP_from_Arduino_TCP/ESP_from_Arduino_TCP.ino) | <code> </code> |
 
 </details>
 
@@ -457,7 +457,7 @@
 
 | File                                                                                                                                                                                   | Summary                         |
 | ---                                                                                                                                                                                    | ---                             |
-| [AP_HTMLjoystick_and_H-Bridge.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/H-Bridge_and_ESP8266/AP_HTMLjoystick_and_H-Bridge/AP_HTMLjoystick_and_H-Bridge.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [AP_HTMLjoystick_and_H-Bridge.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/H-Bridge_and_ESP8266/AP_HTMLjoystick_and_H-Bridge/AP_HTMLjoystick_and_H-Bridge.ino) | <code> </code> |
 
 </details>
 
@@ -465,7 +465,7 @@
 
 | File                                                                                                           | Summary                         |
 | ---                                                                                                            | ---                             |
-| [Megalovania.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Megalovania/Megalovania.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Megalovania.ino](https://github.com/Alexpascual28/rcb_buggy.git/blob/master/Alex/Megalovania/Megalovania.ino) | <code> </code> |
 
 </details>
 
